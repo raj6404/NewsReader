@@ -14,7 +14,7 @@ A Flutter-based news reader application that allows users to view the latest new
 Here are some screenshots of the app in action:
 
 ### Home Screen
-![Home Screen](snapshots/articlesn.png)
+![Home Screen](screenshots/home-screen.png)
 
 ### Article Detail Screen
 ![Article Detail](screenshots/article-detail.png)
