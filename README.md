@@ -17,10 +17,10 @@ Here are some screenshots of the app in action:
 ![Home Screen](snapshots/articles.png)
 
 ### Article Detail Screen
-![Article Detail](screenshots/article-detail.png)
+![Article Detail](snapshots/detail.png)
 
 ### Search Feature
-![Search Feature](screenshots/search-feature.png)
+![Search Feature](snapshots/search.png)
 
 ## Installation
 
